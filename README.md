@@ -7,7 +7,7 @@ Display all account email on spinner.
 
 Result
 --------------
-<img src="screenshot.png" width="200"/>
+<img src="screenshot.png" width="500"/>
 
 
 
